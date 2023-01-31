@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: Cyan;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    color: Cyan;
+}
+
+footer {
+    background-color: Cyan;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav {
+    margin: 30px;
+    padding: 10px;
+    border: 2px solid Cyan;
+    border-radius: 10px;
+    background-color: Cyan;
+}
+
+nav a {
+    margin: 40px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.icon {
+    background-color: Cyan;
+}
+
+.mol {
+    color: blue;
+}
+
+.lom {
+    border: 4px solid blue;
+    margin: 20px;
+    padding: 10px;
+    text-decoration: none;
+}
